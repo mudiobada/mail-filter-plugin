@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  Filters mail addresses for email notifications.
+</div>
